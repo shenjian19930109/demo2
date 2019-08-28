@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
 
     /**
-     *  feature hotfix
+     * feature hotfix
      * */
     @RequestMapping("/hello")
     public String hello() {
